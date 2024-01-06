@@ -1,9 +1,9 @@
 window.onload = function () {
 	// Initialize Typed.js
 	var typed = new Typed(".typing", {
-		strings: ["a Ux Designer", "a Tech Enthusiast", "an Engineer"],
-		typeSpeed: 100,
-		backSpeed: 60,
+		strings: ["a Tech Enthusiast", "a Software- Engineer"],
+		typeSpeed: 80,
+		backSpeed: 50,
 		cursorChar: ' |',
 		smartBackspace: true,
 		loop: true
