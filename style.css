@@ -16,12 +16,15 @@ body {
   
   
   
-  .profile-picture {
-    display: block;    
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
-  }
+ .profile-picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  border-radius: 50%;
+  background: -webkit-linear-gradient(95deg, #EA4335, #FBBC05, #34A853, #4285F4,rgb(28, 83, 185));
+  
+}
   
   
   
