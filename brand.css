@@ -1,0 +1,249 @@
+
+/* ----------------------------------------------------- */
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border:  solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    font-size: 15px;
+}
+
+/* ----------------------------------------------------- */
+
+
+
+/* --------------Facebook--------------------------------------- */
+
+.links-facebook{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-facebook:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #050791;  
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------Facebook--------------------------------------- */
+
+
+/* --------------GITHUB--------------------------------------- */
+
+.links-github{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-github:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #2B3035;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------GITHUB--------------------------------------- */
+
+
+/* --------------INSTAGRAM--------------------------------------- */
+
+.links-instagram{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-instagram:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #833ab4; 
+background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  
+background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); 
+
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------INSTAGRAM--------------------------------------- */
+
+
+/* --------------TWITTER--------------------------------------- */
+
+.links-twitter{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-twitter:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #00B4DB;  
+  background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);  
+  background: linear-gradient(to right, #0083B0, #00B4DB); 
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------TWITTER--------------------------------------- */
+
+
+/* --------------LIN--------------------------------------- */
+
+.links-linkedin{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-linkedin:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #0072AC;  
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------LIN--------------------------------------- */
+
+
+
+/* --------------MAIL--------------------------------------- */
+
+.links-mail{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-mail:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #870000; 
+ 
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+
+/* -------------YOUTUBE--------------------------------------- */
+.links-youtube{
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	border:  solid white;
+	border-width: 0.5px;
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+  }
+  
+  .links-youtube:hover{
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	background: #CD201F;  
+  
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+	color: white;
